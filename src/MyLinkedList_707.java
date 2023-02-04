@@ -1,9 +1,9 @@
-public class MyLinkedList {
+public class MyLinkedList_707 {
     int size;
     LinkNode head;
 
     //head节点为虚拟节点
-    public MyLinkedList() {
+    public MyLinkedList_707() {
         size = 0;
         head = new LinkNode(0);
     }

@@ -1,4 +1,4 @@
-public class GenerateMatrix {
+public class GenerateMatrix_59 {
     /**
      * @author:TanShi
      * @date:2023/2/2
