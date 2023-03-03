@@ -16,7 +16,7 @@ public class Permute {
     }
     private void permuteHelper(int[] nums){
         if(path.size()==nums.length){
-            result.add(new ArrayList<>(paht));
+            result.add(new ArrayList<>(path));
             return;
         }
 
