@@ -10,5 +10,6 @@ public class Jump2 {
                 result++;
             }
         }
+        return result;
     }
 }
