@@ -10,7 +10,7 @@ public class MonotoneIncreasingDigits {
             for (int j = flag; j < strings.length; j++) {
                 strings[i]="9";
             }
-            return Integer.parseInt(String.join("",strings));
         }
+        return Integer.parseInt(String.join("",strings));
     }
 }
